@@ -294,7 +294,7 @@
              </div>
              <div class="ni" id="qwe">
               <div id="ytu">
-                <form action="">
+                <form action="C:\Users\Dell\OneDrive\Desktop\nithin\netflix2.html">
                   
                    
                       <select  item id="csk" style="color: white;" name="tt" id="tt">
